@@ -55,13 +55,6 @@
 📆 2019 - 2021\
 📍 **WeThinkCode_**
 
-- 📖 **N+ Networking**\
-📆 2014 - 2015\
-📍 **Academy Training Group**
-
-- 📖 **A+ PC Technician**\
-📆 2012 - 2013\
-📍 **Academy Training Group**
 
 ## Experience
 
