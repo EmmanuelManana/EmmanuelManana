@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=martian1431&show_icons=true&count_private=true&theme=dark" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=EmmanuelManana&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
 <h3 align='center'>💻 My workspace</h3>
