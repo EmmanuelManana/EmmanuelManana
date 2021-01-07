@@ -11,10 +11,10 @@
   <!--<a href="https://wa.me/5518996643974?text=Olá!%20Alexandre">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;-->
-  <a href="https://www.linkedin.com/in/phetho-macmillian-malope-8a61b4187/">
+  <a href="https://www.linkedin.com/in/emmanuel-manana-384007196/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/martian1431">
+  <a href="#">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />        
   </a>&nbsp;&nbsp;
   
@@ -42,7 +42,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:phetomalope@gmail.com'>emanana354@gmail.com</a>
+  📫 How to reach me: <a href='mailto:emanana354@gmail.com'>emanana354@gmail.com</a>
 </p>
 
 <details>
