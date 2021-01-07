@@ -32,9 +32,9 @@
   <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
-
+<!-- stats -->
 <p align="center">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martian1431&theme=dark" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelManana&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
@@ -42,7 +42,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:phetomalope@gmail.com'>phetomalope@gmail.com</a>
+  📫 How to reach me: <a href='mailto:phetomalope@gmail.com'>emanana354@gmail.com</a>
 </p>
 
 <details>
