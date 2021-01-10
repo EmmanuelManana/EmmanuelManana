@@ -1,10 +1,12 @@
 <h1 align='center'>
- Emmanuel Manana 👨‍💻
+ I am Emmanuel Manana 👨‍💻
 </h1>
 
-<p align='center'>
-  A Software developer from Mpumalanga.
-</p>
+<h3 align='center'>
+  "Talk Is Cheap, Show me the code"- Linus Torvalds
+</h3>
+
+
 
 <p align='center'>
   
