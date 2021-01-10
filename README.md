@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A Software developer from Mpumalanga, South Africa.
+  A Software developer from Mpumalanga.
 </p>
 
 <p align='center'>
