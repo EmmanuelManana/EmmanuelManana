@@ -1,6 +1,3 @@
-<h1 align='center'>
- I am Emmanuel Manana 👨‍💻
-</h1>
 
 <h3 align='center'>
   "Talk Is Cheap, Show me the code"- Linus Torvalds
@@ -48,15 +45,6 @@
 </p>
 
 <details>
-  <summary>📃 My Resume</summary>
-
-
-## Education
-
-- 📖 **Software Engineering**\
-📆 2019 - 2021\
-📍 **WeThinkCode_**
-
 
 ## Experience
 
@@ -67,9 +55,6 @@
 
 <br/>
 
-- 👨‍💻 **Junior Developer**\
-📆 2020 - Feb - May\
-📍 **BBD** - Johannesburg, South Africa
 
 </details>
 <!--
