@@ -1,7 +1,7 @@
 
-<h3 align='center'>
+<h2 align='center'>
   "Talk Is Cheap, Show me the code"- Linus Torvalds
-</h3>
+</h2>
 
 
 
