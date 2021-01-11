@@ -1,5 +1,5 @@
 
-<h2 align='center'>
+<h2 align='center' color="green">
   "Talk Is Cheap, Show me the code"- Linus Torvalds
 </h2>
 
