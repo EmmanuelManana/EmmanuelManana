@@ -23,9 +23,7 @@
     <a href="#" width="350"></a>
 </p>
 <p align="center">
-    <a href="#"><img src="https://camo.githubusercontent.com/cc5c3c1ed31214251d107e6496a55a146d4d9d20501144108aa75ae561a289b5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d456d6d616e75656c4d616e616e612673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d6461726b" width="350" data-canonical-src="https://github-readme-stats.vercel.app/api?username=EmmanuelManana&amp;show_icons=true&amp;count_private=true&amp;theme=dark" style="max-width:100%;">
-  
-  <img height="137px" src="https://camo.githubusercontent.com/cc5c3c1ed31214251d107e6496a55a146d4d9d20501144108aa75ae561a289b5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d456d6d616e75656c4d616e616e612673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api?username=EmmanuelManana&amp;hide_title=true&amp;hide_border=true&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;line_height=21&amp;text_color=000&amp;icon_color=000&amp;bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&amp;theme=dark" style="max-width:100%;">
+    <a href="#"><img src="https://camo.githubusercontent.com/759bd6b0bb8c2a7deeab4f648c3999df32b77aa622649106c871a23f422847a2/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d726973686176616e616e642673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565" align="center" data-canonical-src="https://github-readme-stats.vercel.app/api?username=rishavanand&amp;show_icons=true&amp;count_private=true" style="max-width:100%;">
   </a>
 </p>
 
