@@ -23,7 +23,7 @@
     <a href="#" width="350"></a>
 </p>
 <p align="center">
-    <a href="#"><img src="https://camo.githubusercontent.com/cc5c3c1ed31214251d107e6496a55a146d4d9d20501144108aa75ae561a289b5/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d456d6d616e75656c4d616e616e612673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d6461726b" width="350" data-canonical-src="https://github-readme-stats.vercel.app/api?username=EmmanuelManana&amp;show_icons=true&amp;count_private=true&amp;theme=dark" style="max-width:100%;">
+    <a href="#"><img src="https://github.com/EmmanuelManana" width="350" data-canonical-src="https://github-readme-stats.vercel.app/api?username=EmmanuelManana&amp;show_icons=true&amp;count_private=true&amp;theme=dark" style="max-width:100%;">
       
   </a>
 </p>
