@@ -38,7 +38,7 @@
 </p>
 <!-- stats -->
 <p align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanana&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelManana&theme=dark" width="350"></a>
 </p>
 
 <p align='center'>
